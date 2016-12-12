@@ -65,7 +65,8 @@ With all this in mind, let's go ahead and get started!
 
 ### HTML Page
 
-The first thing you'll be doing
+The first thing you'll be doing is building a simple site with three HTML pages:
+an 'index' page, an 'about' page, and a page for one of the company's products.
 
 1.  Create a new file called `index.html`, filled with HTML boilerplate.
     Give the page a header, a 'main' section, and a footer.
@@ -121,6 +122,9 @@ and [W3Schools](http://www.w3schools.com/html/default.asp)
 are two good ones.
 
 ### Adding CSS
+
+Now that we have a simple site with a little bit of content, let's add some
+styling using CSS.
 
 1.  Create a CSS file called `main.css` and link to it from `index.html`,
     `about.html`, and `product-page-01.html`.
